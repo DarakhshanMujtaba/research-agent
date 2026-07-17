@@ -1,0 +1,20 @@
+[theme]
+font = "sans-serif"
+baseRadius = "large"
+base = "light"
+
+[theme.light]
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F172A"
+borderColor = "#E2E8F0"
+linkColor = "#2563EB"
+
+[theme.dark]
+primaryColor = "#60A5FA"
+backgroundColor = "#0E1420"
+secondaryBackgroundColor = "#1B2433"
+textColor = "#E7ECF3"
+borderColor = "#2E3B4E"
+linkColor = "#60A5FA"
